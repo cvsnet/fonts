@@ -5,7 +5,7 @@
 	url('NanumBarunGothic.woff2') format('woff2'),
 	url('NanumBarunGothic.woff') format('woff'),
 	url('NanumBarunGothic.ttf') format('truetype');
-	src:local('?'), url('NanumBarunGothic.woff') format('woff');
+	src:local('?'), url('NanumBarunGothic.woff2') format('woff2');
 }
 
 @font-face{
@@ -15,7 +15,7 @@
 	url('NanumBarunGothicBold.woff2') format('woff2'),
 	url('NanumBarunGothicBold.woff') format('woff'),
 	url('NanumBarunGothicBold.ttf') format('truetype');
-	src:local('?'), url('NanumBarunGothicBold.woff') format('woff');
+	src:local('?'), url('NanumBarunGothicBold.woff2') format('woff2');
 }
 
 @font-face{
@@ -25,7 +25,7 @@
 	url('NanumBarunGothicLight.woff2') format('woff2'),
 	url('NanumBarunGothicLight.woff') format('woff'),
 	url('NanumBarunGothicLight.ttf') format('truetype');
-	src:local('?'), url('NanumBarunGothicLight.woff') format('woff');
+	src:local('?'), url('NanumBarunGothicLight.woff2') format('woff2');
 }
 
 @font-face{
@@ -35,7 +35,7 @@
 	url('Montserrat-Light.woff2') format('woff2'),
 	url('Montserrat-Light.woff') format('woff'),
 	url('Montserrat-Light.ttf') format('truetype');
-	src:local('?'), url('Montserrat-Light.woff') format('woff');
+	src:local('?'), url('Montserrat-Light.woff2') format('woff2');
 }
 
 @font-face{
@@ -45,7 +45,7 @@
 	url('Montserrat-Regular.woff2') format('woff2'),
 	url('Montserrat-Regular.woff') format('woff'),
 	url('Montserrat-Regular.ttf') format('truetype');
-	src:local('?'), url('Montserrat-Regular.woff') format('woff');
+	src:local('?'), url('Montserrat-Regular.woff2') format('woff2');
 }
 
 @font-face{
@@ -55,7 +55,7 @@
 	url('Montserrat-Medium.woff2') format('woff2'),
 	url('Montserrat-Medium.woff') format('woff'),
 	url('Montserrat-Medium.ttf') format('truetype');
-	src:local('?'), url('Montserrat-Medium.woff') format('woff');
+	src:local('?'), url('Montserrat-Medium.woff2') format('woff2');
 }
 
 
@@ -66,7 +66,7 @@
 	url('Montserrat-SemiBold.woff2') format('woff2'),
 	url('Montserrat-SemiBold.woff') format('woff'),
 	url('Montserrat-SemiBold.ttf') format('truetype');
-	src:local('?'), url('Montserrat-SemiBold.woff') format('woff');
+	src:local('?'), url('Montserrat-SemiBold.woff2') format('woff2');
 }
 
 @font-face{
@@ -76,7 +76,7 @@
 	url('Montserrat-Bold.woff2') format('woff2'),
 	url('Montserrat-Bold.woff') format('woff'),
 	url('Montserrat-Bold.ttf') format('truetype');
-	src:local('?'), url('Montserrat-Bold.woff') format('woff');
+	src:local('?'), url('Montserrat-Bold.woff2') format('woff2');
 }
 
 @font-face{
@@ -86,5 +86,5 @@
 	url('Jalnan.woff2') format('woff2'),
 	url('Jalnan.woff') format('woff'),
 	url('Jalnan.ttf') format('truetype');
-	src:local('?'), url('Jalnan.woff') format('woff');
+	src:local('?'), url('Jalnan.woff2') format('woff2');
 }
